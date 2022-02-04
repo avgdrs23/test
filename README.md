@@ -1,2 +1,2 @@
 # The test project
-[![GitHub Repo Size in Bytes][(https://img.shields.io/cirrus/github/avgdrs23/test/master)](https://github.com/avgdrs23)
+![GitHub Repo stars](https://img.shields.io/github/stars/avgdrs23/test?style=flat-square)
